@@ -1,5 +1,5 @@
 <h2> About Me </h2>
-💬 Ask me about Sql, Java, JavaScript
+Ask me about JavaScript
 <h2> Skills </h2>
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />

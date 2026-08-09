@@ -1,21 +1,21 @@
 <h2> About Me </h2>
 💬 Ask me about Sql, Java, JavaScript
 <h2> Skills </h2>
-<a href="https://github.com/tu_usuario?tab=repositories&q=&type=&language=java&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+<a href="https://github.com/vtgalvez?tab=repositories&q=&type=&language=java&sort=">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </a>
-<a href="https://github.com/tu_usuario?tab=repositories&q=&type=&language=python&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+<a href="https://github.com/vtgalvez?tab=repositories&q=&type=&language=python&sort=">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
-<a href="https://github.com/tu_usuario?tab=repositories&q=&type=&language=javascript&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
+<a href="https://github.com/vtgalvez?tab=repositories&q=&type=&language=javascript&sort=">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </a>
-<a href="https://github.com/tu_usuario">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+<a href="https://github.com/vtgalvez">
+  <img src="https://img.shields.io/badge/database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" />
 </a>
-<a href="https://github.com/tu_usuario">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua">
+<a href="https://github.com/vtgalvez">
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </a>
-<a href="https://github.com/tu_usuario">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original.svg" alt="Minecraft">
+<a href="https://github.com/vtgalvez">
+  <img src="https://img.shields.io/badge/minecraft_servers-107C41?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Servers" />
 </a>
